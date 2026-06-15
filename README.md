@@ -1,3 +1,5 @@
+![hero](https://raw.githubusercontent.com/kamendola/pingu-designs/refs/heads/main/hero.png)
+
 # Pingu designs
 
 A [Claude Code](https://docs.claude.com/en/docs/claude-code) **skill** for design-to-code polish on any [React Spectrum S2](https://react-spectrum.adobe.com/s2/) app.
